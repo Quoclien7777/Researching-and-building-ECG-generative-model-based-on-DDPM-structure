@@ -2,11 +2,12 @@
 
 Building 3 models named Unet, Diffwave, SSSD and evaluating the ECG synthesis data.
 
-##Dataset
+## Dataset
 Download MIT-BIH Arrhythmia Database for Diffwave model and Unet model from [here](https://www.physionet.org/content/mitdb/1.0.0/)
+
 Download PTBXL Database for Diffwave+S4 model from [here](https://physionet.org/content/ptb-xl/1.0.3/)
 
-##Citation
+## Citation
 @article{adib2023synthetic,
   title={Synthetic ECG signal generation using probabilistic diffusion models},
   author={Adib, Edmonmd and Fernandez, Amanda S and Afghah, Fatemeh and Prevost, John J},
