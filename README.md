@@ -8,6 +8,8 @@ Download MIT-BIH Arrhythmia Database for Diffwave model and Unet model from [her
 Download PTBXL Database for Diffwave+S4 model from [here](https://physionet.org/content/ptb-xl/1.0.3/)
 
 ## Citation
+
+```bibtex
 @article{adib2023synthetic,
   title={Synthetic ECG signal generation using probabilistic diffusion models},
   author={Adib, Edmonmd and Fernandez, Amanda S and Afghah, Fatemeh and Prevost, John J},
